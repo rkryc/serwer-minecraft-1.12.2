@@ -1,0 +1,134 @@
+Default: Member
+Groups:
+  Member:
+    permissions: []
+    inheritance: []
+    build: true
+    chat:
+      prefix: '[&aMember&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Owner:
+    permissions: []
+    inheritance: []
+    build: true
+    chat:
+      prefix: '[&bOwner&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: Admin
+  Pomocnik:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Pomocnik&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Technik:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Technik&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Vip:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Vip&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Vip+:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Vip+&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  SVip:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7SVip&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  YouTuber:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7YouTuber&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  ROOT:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7ROOT&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Moderator:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Moderator&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+  Admin:
+    permissions: '[]'
+    inheritance: '[]'
+    build: true
+    chat:
+      prefix: '[&7Admin&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''

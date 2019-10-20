@@ -1,0 +1,63 @@
+[10-19 10:08:09]: [INFO] Created column 'regdate' and set the current timestamp, 1571472489700, to all 0 rows
+[10-19 10:08:09]: [INFO] SQLite Setup finished
+[10-19 10:08:09]: [INFO] Hooked into PermissionsEx!
+[10-19 10:08:09]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[10-19 10:08:09]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Thread.java:748)
+
+[10-19 10:08:09]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[10-19 10:08:09]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[10-19 10:08:09]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[10-19 10:08:09]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[10-19 10:08:20]: [FINE] IgorProPL registered 94.134.88.39
+[10-19 10:08:20]: [FINE] IgorProPL logged in!
+[10-19 10:08:27]: [FINE] rkryc registered 156.67.125.108
+[10-19 10:08:27]: [FINE] rkryc logged in!
+[10-19 10:10:06]: [FINE] Frewers registered 192.252.222.36
+[10-19 10:10:06]: [FINE] Frewers logged in!
+[10-19 10:11:26]: [FINE] lol3636pl registered 37.7.167.235
+[10-19 10:11:26]: [FINE] lol3636pl logged in!
+[10-19 10:13:29]: [FINE] xddddddd registered 172.83.43.139
+[10-19 10:13:29]: [FINE] xddddddd logged in!
+[10-19 10:15:33]: [FINE] xddddddd logged in!
+[10-19 10:32:14]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[10-19 10:32:14]: [INFO] SQLite Setup finished
+[10-19 10:32:14]: [INFO] Hooked into PermissionsEx!
+[10-19 10:32:14]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[10-19 10:32:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[10-19 10:32:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[10-19 10:32:14]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[10-19 10:32:14]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[10-19 10:32:14]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Thread.java:748)
+
+[10-19 10:32:21]: [FINE] rkryc logged in!
+[10-19 10:32:44]: [FINE] IgorProPL logged in!
+[10-19 10:32:49]: [FINE] lol3636pl logged in!
+[10-19 11:09:08]: [FINE] IgorProPL logged in!
+[10-19 12:02:13]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[10-19 12:02:14]: [INFO] SQLite Setup finished
+[10-19 12:02:14]: [INFO] Hooked into PermissionsEx!
+[10-19 12:02:14]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+[10-19 12:02:14]: java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at fr.xephi.authme.service.GeoIpService$1.run(GeoIpService.java:94)
+	at java.lang.Thread.run(Thread.java:748)
+
+[10-19 12:02:14]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[10-19 12:02:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[10-19 12:02:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[10-19 12:02:14]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[10-19 12:02:52]: [FINE] IgorProPL logged in!
+[10-19 12:05:56]: [FINE] rkryc logged in!
+[10-19 12:14:21]: [FINE] IgorProPL logged in!
+[10-19 14:13:29]: [FINE] IgorProPL logged in!
+[10-19 16:17:42]: [FINE] IgorProPL logged in!
+[10-20 11:24:25]: [FINE] rkryc logged in!

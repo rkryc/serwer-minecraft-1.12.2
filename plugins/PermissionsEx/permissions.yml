@@ -1,0 +1,31 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+  Admin:
+    permissions:
+    - '*'
+  Moderator: {}
+  Helper: {}
+  Vip: {}
+  Nowy:
+    permissions:
+    - tppenny
+    - tpaccept
+    - TPA
+    - spawn
+  SVIP: {}
+schema-version: 1
+users:
+  0962412e-78fa-338c-a09d-b218acfd805d:
+    permissions:
+    - '*'
+    options:
+      name: rkryc
+  0639c768-c838-3134-864c-440b1a0c4348:
+    permissions:
+    - '*'
+    options:
+      name: IgorProPL
