@@ -1,0 +1,64 @@
+[13:36:27] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:36:27] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[13:36:27] [Server thread/INFO]: Loading properties
+[13:36:27] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Nieprawid³owe dojœcie
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.fill(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:87) [server.jar:git-Spigot-d21162c-61e0c69]
+[13:36:27] [Server thread/WARN]: resource-pack-hash is deprecated and found along side resource-pack-sha1. resource-pack-hash will be ignored.
+[13:36:27] [Server thread/INFO]: Default game type: SURVIVAL
+[13:36:31] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d21162c-61e0c69 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[13:36:33] [Server thread/INFO]: Debug logging is disabled
+[13:36:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:36:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:36:33] [Server thread/INFO]: Generating keypair
+[13:36:37] [Server thread/INFO]: Starting Minecraft server on 10.0.229.85:42940
+[13:36:37] [Server thread/INFO]: Using default channel type
+[13:36:51] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[13:36:51] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[13:36:51] [Server thread/WARN]: Perhaps a server is already running on that port?
+[13:36:51] [Server thread/INFO]: Stopping server
+[13:36:51] [Server thread/INFO]: Saving players
+[13:37:54] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:37:54] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[13:37:54] [Server thread/INFO]: Loading properties
+[13:37:54] [Server thread/WARN]: resource-pack-hash is deprecated and found along side resource-pack-sha1. resource-pack-hash will be ignored.
+[13:37:54] [Server thread/INFO]: Default game type: SURVIVAL
+[13:37:54] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Nieprawid³owe dojœcie
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.fill(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[server.jar:git-Spigot-d21162c-61e0c69]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:87) [server.jar:git-Spigot-d21162c-61e0c69]
+[13:37:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d21162c-61e0c69 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[13:37:55] [Server thread/INFO]: Debug logging is disabled
+[13:37:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:37:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:37:55] [Server thread/INFO]: Generating keypair
+[13:37:57] [Server thread/INFO]: Starting Minecraft server on 10.0.229.85:42940
+[13:37:57] [Server thread/INFO]: Using default channel type
+[13:38:05] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[13:38:05] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[13:38:05] [Server thread/WARN]: Perhaps a server is already running on that port?
+[13:38:05] [Server thread/INFO]: Stopping server
+[13:38:05] [Server thread/INFO]: Saving players
